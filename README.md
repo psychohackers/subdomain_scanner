@@ -29,7 +29,7 @@ A powerful and efficient Python tool for discovering subdomains using multiple e
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/subdomain-scanner.git
+git clone https://github.com/psychohackers/subdomain-scanner.git
 cd subdomain-scanner
 
 # Install dependencies
