@@ -240,7 +240,7 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/subdomain-scanner.git
+git clone https://github.com/psychohackers/subdomain-scanner.git
 cd subdomain-scanner
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
